@@ -1,10 +1,10 @@
 {
-	"id": "example",
-	"name": "Example mod",
+	"id": "glownerf",
+	"name": "Glow nerf",
 	"version": "1.0.0",
 	"hide_version": false,
-	"authors": "Coding:\nExample Person\nExample Person 2",
-	"description": "Example Remix mod.",
+	"authors": "Coder23848",
+	"description": "Nerfs the glowing effect provided by eating a neuron, so that it doesn't make lanterns useless.",
 	"requirements": [],
 	"requirements_names": [],
 	"checksum_override_version": false

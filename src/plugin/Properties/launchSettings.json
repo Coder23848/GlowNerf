@@ -3,7 +3,7 @@
     "Run in RainWorld": {
       "commandName": "Executable",
       "executablePath": "./RainWorld.exe",
-      "workingDirectory": "../../game"
+      "workingDirectory": "../../../game"
     }
   }
 }
