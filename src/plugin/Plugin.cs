@@ -23,8 +23,8 @@ namespace GlowNerf
             orig(self);
             if (self.lightSource != null && self.lightSource.Rad == VANILLALIGHTRAD && self.lightSource.Alpha == VANILLALIGHTALPHA)
             {
-                self.lightSource.setRad = VANILLALIGHTRAD * PluginOptions.IntensityMultiplier.Value;
-                self.lightSource.setAlpha = VANILLALIGHTALPHA * PluginOptions.IntensityMultiplier.Value;
+                self.lightSource.HardSetRad(VANILLALIGHTRAD * PluginOptions.IntensityMultiplier.Value);
+                self.lightSource.HardSetAlpha(VANILLALIGHTALPHA * PluginOptions.IntensityMultiplier.Value);
             }
         }
 
