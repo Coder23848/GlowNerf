@@ -1,7 +1,7 @@
 {
 	"id": "glownerf",
-	"name": "Glow nerf",
-	"version": "1.1.0",
+	"name": "Glow Nerf",
+	"version": "1.1.1",
 	"hide_version": false,
 	"authors": "Coder23848",
 	"description": "Nerfs the glowing effect provided by eating a neuron, so that it doesn't make lanterns useless.",

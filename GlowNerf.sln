@@ -13,6 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mod", "mod", "{3BE14D79-AA7
 		mod\thumbnail.png = mod\thumbnail.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC3D99FF-8121-468C-8C60-62864D7DDA2F}"
+	ProjectSection(SolutionItems) = preProject
+		steam_workshop_description.txt = steam_workshop_description.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
